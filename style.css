@@ -1,0 +1,51 @@
+.pred {
+  background-color: red;
+  color: rgb(27, 29, 222);
+  color: #1b9592;
+
+}
+
+.colorazul {
+  font-size: 2em;
+  color: yellow;
+  border: thin solid blue;
+  padding: 1em;
+  margin: 2em;
+  border-radius: 2em;
+}
+
+body {
+  border: thick solid black;
+  padding: 0
+  margin: 0;
+  }
+
+  body {
+    border: thick dotted red;
+    margin: 4em;
+    padding: 2em;
+    border-radius: 5em;
+    }
+#main-banner {
+  border: thin solid red;
+  background-color: rgb(43,110,135);
+background-image: url("images/mbappe.png");
+background-size: cover;
+}
+
+#main-banner > h1 {
+padding: 1em;
+padding-bottom: 0;
+color: white;
+}
+
+#main-banner > p {
+  background-color: lightgrey;
+  padding: 1em;
+  padding-left: 2em;
+
+}
+
+#main-banner > a {
+float: right;
+}
